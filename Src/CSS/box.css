@@ -1,0 +1,52 @@
+
+.box__icon{
+ padding: 5rem 10rem;
+  background-color:#002147 ;
+  width: fit-content;
+  
+}
+.box__icon i{
+  color: white;
+  font-size: 3rem;
+}
+.box__row1 .box__icon{
+  float: left;
+  width: 23%;
+  text-align: center;
+  margin: 1rem;
+  border-radius: .5rem;
+}
+.box__row1{
+  margin: auto;
+    width: 80%;
+    gap: 3rem;
+    margin-bottom: 3rem;
+}
+.box__row2 .box__icon{
+  float: left;
+  width: 23%;
+  text-align: center;
+  margin: 1rem;
+  border-radius: .5rem;
+}
+.box__row2{
+  margin: auto;
+  width: 80%;
+}
+.box__container{
+  padding: 8rem;
+  max-width: 144rem;
+    margin: auto;
+    width: 100%;
+}
+#box{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+
+
+
+

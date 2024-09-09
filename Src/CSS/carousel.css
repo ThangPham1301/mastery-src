@@ -1,0 +1,35 @@
+
+button{
+    padding: 1.3rem 2.3rem;
+    border-radius: 5px;
+    background-color: #FDC800;
+    border: none;
+    font-weight: 700;
+    margin-top: 2rem;
+    cursor: pointer;
+}
+button:hover{
+    background-color: #C47E0E;
+    transition: all 0.3s linear;
+}
+.carousel__content{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+.carousel__img{
+    float: left;
+    width: 50%; 
+}
+.carousel__desc{
+    float: left;
+    width: 50%;
+    margin-top: 3rem;
+    padding-right: 6rem;
+}
+.carousel__desc h1{
+  font-size: 4rem;
+}
+.carousel__img img{
+    border-radius:0 .5rem .5rem 0;
+}

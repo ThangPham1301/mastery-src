@@ -1,0 +1,41 @@
+#number{
+    background-color: #DFDFDF;
+    padding: 5rem;
+   text-align: center;
+
+}
+.number__content{
+    margin: auto;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.number__text{
+    float: left;
+    width: 25%;
+    box-sizing: border-box;
+    vertical-align:bottom;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.numberr{
+    font-size: 4rem;
+    font-weight: 500;
+    float: left;
+    width: 25%;
+
+}
+.text{
+    font-weight: 400;
+    float: left;
+    font-size: 1.4rem;
+    width: 40%;
+}
+/* .number__text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */

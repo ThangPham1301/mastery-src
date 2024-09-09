@@ -1,0 +1,47 @@
+.end__contact1{
+    border-bottom: .1rem solid gray;
+    display: flex;
+    margin-bottom: 2rem ;
+    padding-bottom: 3rem;
+}
+footer{
+    padding: 10rem;
+    background-color: #002146;
+    color: white;
+}
+
+
+nav ul li a{
+    color: white;
+    display: flex;
+    text-decoration: none;
+    margin: 1rem;
+}
+ul li{
+    list-style: none;
+}
+.end__contact__us{
+    flex: 1;
+}
+.end__featured{
+    flex: 1;
+}
+.end__quick{
+    flex: 1;
+}
+.end__contact2{
+    display: flex;
+}
+.end__contact2 .mau{    
+    border-radius: 50%;
+    padding: .1rem;
+    border:1rem;
+    margin-right: .2rem;
+}
+nav ul li a i{
+    color: #F7C406;
+    margin-right: .9rem;
+}
+.end__contact1 h3{
+    margin-bottom: 4rem;
+}
